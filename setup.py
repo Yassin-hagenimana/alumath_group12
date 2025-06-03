@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="alumath_group12",  # This is the name people will pip install
+    name="alumath_group12",  
     version="0.1.1",
     description="A simple Python library for multiplying two matrices of any size",
     long_description=open("README.md").read(),
