@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="alumath_group12",  
-    version="0.1.1",
+    version="0.1.2",
     description="A simple Python library for multiplying two matrices of any size",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

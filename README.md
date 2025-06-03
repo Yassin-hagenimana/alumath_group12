@@ -12,8 +12,17 @@ pip install alumath_group12
 
 from alumath_group12 import multiply_matrices
 
-a = [[3, 2, 3], [7, 5, 6]]
-b = [[9, 8], [0, 10], [1, 14]]
+a = [
+    [2, 4, 1],
+    [0, 3, 5],
+    [7, 1, 6]
+]
+
+b = [
+    [1, 0, 2],
+    [3, 5, 6],
+    [4, 7, 8]
+]
 
 result = multiply_matrices(a, b)
 print(result)
