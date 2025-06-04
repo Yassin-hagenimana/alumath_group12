@@ -1,4 +1,4 @@
-# ALU math matrices multiplication
+# ALU math, matrices multiplication
 
 A lightweight Python library to multiply two matrices of any compatible size.
 
